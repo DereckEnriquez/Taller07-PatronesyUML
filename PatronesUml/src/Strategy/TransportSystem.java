@@ -1,5 +1,5 @@
 
-package Chain;
+package Strategy;
 
 public class TransportSystem {
     private DeliveryStrategy strategy;

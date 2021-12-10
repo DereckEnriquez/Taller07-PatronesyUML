@@ -1,5 +1,5 @@
 
-package Chain;
+package Strategy;
 
 class Location {
     

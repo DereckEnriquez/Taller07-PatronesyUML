@@ -1,5 +1,5 @@
 
-package Chain;
+package Strategy;
 
 public class CyclistStrategys implements DeliveryStrategy {
     public void ProductDeliveryLocation(Location location) {
